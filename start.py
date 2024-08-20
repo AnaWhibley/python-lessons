@@ -6,9 +6,5 @@
 # - Lo que queramos mostrar debemos incluirlo dentro de los parentesis ()
 # - El texto debe estar entre comillas (simples o dobles)
 
-# creamos una variable
-greeting = "Feliz Navidad"
-
-# imprimimos la variable
-print("Output:", greeting)
-
+print("Hello World")
+# print(5)
