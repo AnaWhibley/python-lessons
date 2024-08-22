@@ -11,11 +11,13 @@
 
 
 # 4. Asignar el Valor de una Variable a Otra
-# Crea una variable llamada original con el valor "Python". Asigna este valor a una nueva variable llamada copiado y luego imprime copiado.
+# Crea una variable llamada original con el valor "Python".
+# Asigna este valor a una nueva variable llamada copiado y luego imprime copiado.
 
 
 # 5. Concatenar Cadenas y Imprimir
-# Crea dos variables nombre y apellido, asignándoles los valores "Juan" y "Pérez" respectivamente. Imprime el resultado de concatenar nombre y apellido con un espacio en medio.
+# Crea dos variables nombre y apellido, asignándoles los valores "Juan" y "Pérez" respectivamente.
+# Imprime el resultado de concatenar nombre y apellido con un espacio en medio.
 
 
 # 6. Imprimir la Suma de Dos Números
@@ -42,7 +44,8 @@
 # Crea una variable llamada diferencia con el valor 100. Resta 25 de diferencia y luego imprime el resultado.
 
 # 12. Actualizar y Imprimir una Variable
-# Crea una variable llamada total con el valor 15. Luego, actualiza total sumando 10 a su valor original y finalmente imprímelo.
+# Crea una variable llamada total con el valor 15. Luego, actualiza total sumando 10
+# a su valor original y finalmente imprímelo.
 
 
 # 13. Imprimir el Resultado de Restar Dos Nuevas Variables
