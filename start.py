@@ -6,5 +6,3 @@
 # - Lo que queramos mostrar debemos incluirlo dentro de los parentesis ()
 # - El texto debe estar entre comillas (simples o dobles)
 
-print("Hello World")
-# print(5)
