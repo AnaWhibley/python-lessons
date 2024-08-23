@@ -6,3 +6,6 @@
 # - Lo que queramos mostrar debemos incluirlo dentro de los parentesis ()
 # - El texto debe estar entre comillas (simples o dobles)
 
+num = 29
+divisor = 4
+print(num % divisor)
